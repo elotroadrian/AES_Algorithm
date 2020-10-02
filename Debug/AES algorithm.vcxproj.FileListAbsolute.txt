@@ -1,0 +1,2 @@
+C:\ProyectosEspecialidad\AES Algorithm\AES algorithm\Debug\AES algorithm.exe
+C:\ProyectosEspecialidad\AES Algorithm\AES algorithm\Debug\AES algorithm.pdb
